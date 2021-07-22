@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/darkProfile/static/css/main.804e69f7.chunk.css",
-    "main.js": "/darkProfile/static/js/main.666a49b3.chunk.js",
-    "main.js.map": "/darkProfile/static/js/main.666a49b3.chunk.js.map",
-    "runtime-main.js": "/darkProfile/static/js/runtime-main.15c2dfc6.js",
-    "runtime-main.js.map": "/darkProfile/static/js/runtime-main.15c2dfc6.js.map",
-    "static/js/2.3596285b.chunk.js": "/darkProfile/static/js/2.3596285b.chunk.js",
-    "static/js/2.3596285b.chunk.js.map": "/darkProfile/static/js/2.3596285b.chunk.js.map",
-    "static/js/3.b27703a0.chunk.js": "/darkProfile/static/js/3.b27703a0.chunk.js",
-    "static/js/3.b27703a0.chunk.js.map": "/darkProfile/static/js/3.b27703a0.chunk.js.map",
-    "index.html": "/darkProfile/index.html",
-    "static/css/main.804e69f7.chunk.css.map": "/darkProfile/static/css/main.804e69f7.chunk.css.map",
-    "static/js/2.3596285b.chunk.js.LICENSE.txt": "/darkProfile/static/js/2.3596285b.chunk.js.LICENSE.txt"
+    "main.css": "/dark-Profile/static/css/main.804e69f7.chunk.css",
+    "main.js": "/dark-Profile/static/js/main.666a49b3.chunk.js",
+    "main.js.map": "/dark-Profile/static/js/main.666a49b3.chunk.js.map",
+    "runtime-main.js": "/dark-Profile/static/js/runtime-main.09d9273b.js",
+    "runtime-main.js.map": "/dark-Profile/static/js/runtime-main.09d9273b.js.map",
+    "static/js/2.3596285b.chunk.js": "/dark-Profile/static/js/2.3596285b.chunk.js",
+    "static/js/2.3596285b.chunk.js.map": "/dark-Profile/static/js/2.3596285b.chunk.js.map",
+    "static/js/3.b27703a0.chunk.js": "/dark-Profile/static/js/3.b27703a0.chunk.js",
+    "static/js/3.b27703a0.chunk.js.map": "/dark-Profile/static/js/3.b27703a0.chunk.js.map",
+    "index.html": "/dark-Profile/index.html",
+    "static/css/main.804e69f7.chunk.css.map": "/dark-Profile/static/css/main.804e69f7.chunk.css.map",
+    "static/js/2.3596285b.chunk.js.LICENSE.txt": "/dark-Profile/static/js/2.3596285b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.15c2dfc6.js",
+    "static/js/runtime-main.09d9273b.js",
     "static/js/2.3596285b.chunk.js",
     "static/css/main.804e69f7.chunk.css",
     "static/js/main.666a49b3.chunk.js"
